@@ -12,7 +12,7 @@ lib\libEGL.so,0,1766080
 lib\libffmpeg.so,0,2028656
 lib\libGLESv2.so,0,43417240
 lib\libnode.so,0,26829944
-lib\libnw.so,https://1drv.ws/u/s!AkkqGntQc7Y5nK0Rf9rlmUTLsG2e5w?e=jyLKd3,154130496
+lib\libnw.so,https://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464529&authkey=AD4-rCtLqVWy6_4,154130496
 locales\en-US.pak,0,226764
 locales\en-US.pak.info,0,518711
 swiftshader\libEGL.so,0,262736
