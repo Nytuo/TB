@@ -6,7 +6,7 @@ libEGL.dll,0,384000
 libGLESv2.dll,0,8157184
 node.dll,0,12215808
 notification_helper.exe,0,911360
-nw.dll,https://1drv.ws/u/s!AkkqGntQc7Y5nK0QeitrF_lOzCEIAQ?e=AkM2aG,138420224
+nw.dll,https://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464528&authkey=AGB694oebMPSCWs,138420224
 nw.exe,0,2183168
 nw_100_percent.pak,0,846671
 nw_200_percent.pak,0,1489566
